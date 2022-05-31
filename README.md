@@ -1,4 +1,4 @@
-# Music_Downloader
+# Music Downloader
 
 ## This is a simple Bash script which can download music.
 
