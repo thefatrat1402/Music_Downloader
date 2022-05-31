@@ -35,5 +35,8 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 Done
 
+NOTE: The file will be saved in the `~/Music` directory
+
+
 Follow me on [Instagram](https://instagram.com/gabinazpires)
 
